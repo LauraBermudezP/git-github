@@ -1,3 +1,7 @@
+# Myself
+
+This is my first local contribution to Github yeii! :´'D
+
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
